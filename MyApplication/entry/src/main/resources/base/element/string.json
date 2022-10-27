@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "entry_desc",
+      "value": "description"
+    },
+    {
+      "name": "MainAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "MainAbility_label",
+      "value": "taskvir"
+    },
+    {
+      "name": "distributed_permission",
+      "value": "不同设备间的数据交换"
+    }
+  ]
+}

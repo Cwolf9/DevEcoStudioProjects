@@ -1,0 +1,13 @@
+/MyApplication/*
+/MyApplication/node_modules
+/MyApplicationC/*
+/MyApplnn/*
+/SocketTest/*
+!/MyApplication/entry/src
+!/MyApplicationC/entry/src
+!/MyApplnn/entry/src
+!/SocketTest/entry/src
+
+
+
+
